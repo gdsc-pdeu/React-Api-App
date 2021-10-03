@@ -8,3 +8,4 @@ A beginner friendly repo to motivate the open source contribution. This repo wil
 
 ## Contributors:
 * **Breaking-Bad** - [Jay Patel](https://github.com/jaypatel31)
+* **Spotify** - [Harsh Baldaniya](https://github.com/HarshBaldaniya)
